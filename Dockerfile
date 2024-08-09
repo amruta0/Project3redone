@@ -1,2 +1,2 @@
-FROM ubuntu/apache2:latest
+FROM nginx:latest
 CMD ["echo","Hello, this is my project3"]
